@@ -1,9 +1,11 @@
 streamlit
-langchain==0.1.16
-langchain-community
-sentence-transformers
-faiss-cpu
-transformers
-python-dotenv
-PyPDF2
-torch
+   langchain==0.1.16
+   langchain-community
+   langchain-groq
+   groq
+   sentence-transformers
+   faiss-cpu
+   transformers
+   PyPDF2
+   torch
+   python-dotenv
